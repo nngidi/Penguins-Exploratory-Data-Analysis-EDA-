@@ -32,7 +32,7 @@ This project utilizes the following tools and libraries:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/penguins-eda.git
+   git clone https://github.com/nngidi/penguins-eda.git
    cd penguins-eda
    ```
 
@@ -40,13 +40,3 @@ pip install pandas matplotlib seaborn
 
 
 jupyter notebook eda_penguins.ipynb
-
-
-### Customization
-
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- If you have additional sections or specifics to add (like a license file or acknowledgments), feel free to modify it.
-- Ensure that the dataset path in the project structure matches your actual file setup.
-
-This README provides a comprehensive overview of your project and serves as a useful guide for anyone interested in understanding or reproducing your analysis. If you need further modifications or additions, let me know!
-
